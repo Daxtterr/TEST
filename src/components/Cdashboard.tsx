@@ -52,8 +52,8 @@ const Cdashboard = () => {
                   <td className="whitespace-nowrap px-6 py-4 font-medium">
                     Upload
                   </td>
-                  <td className="whitespace-nowrap px-6 py-4">Cell</td>
-                  <td className="whitespace-nowrap px-6 py-4">Cell</td>
+                  <td className="whitespace-nowrap px-6 py-4"><input type="file" /></td>
+                  <td className="whitespace-nowrap px-6 py-4"><input type="file" /></td>
                 </tr>
               </tbody>
             </table>
